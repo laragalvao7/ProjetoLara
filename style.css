@@ -1,2 +1,12 @@
 body {
 background-color: #305050; color: white; }
+h2{
+    color:orange
+}
+.texto-ingles{
+    font-style: italic;
+    font-weight: 900;
+}
+#nome-usario{
+    font-weight: bold;
+}
